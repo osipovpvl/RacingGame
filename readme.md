@@ -1,3 +1,3 @@
 # Beta Racing Game
 
-[Playing](https://astergumi.github.io/RacingGame/)
+[Playing](https://osipovtwelve.github.io/RacingGame/)
